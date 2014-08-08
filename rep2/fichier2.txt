@@ -1,2 +1,3 @@
 Une jolie phrase
+...j'ai pas fini...
 Cette ligne sera en conflit
