@@ -2,7 +2,4 @@ Premiere ligne
 Deuxieme ligne
 
 ...pendant ce temps je met ceci
-
-
-...et il ajoute ici aussi
-Il travail fort ici aussi
+il change d'avis et met ceci 
