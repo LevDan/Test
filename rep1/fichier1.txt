@@ -4,8 +4,4 @@ Deuxieme ligne
 ...pendant ce temps je met ceci
 
 
-
-
-
-
-...et je met ceic aussi
+...et il ajoute ici aussi
