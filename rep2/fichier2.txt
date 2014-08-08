@@ -1,2 +1,2 @@
 Une jolie phrase
-J'ai pas fini de faire ceci
+Cette ligne sera en conflit
