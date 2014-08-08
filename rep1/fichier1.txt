@@ -1,2 +1,5 @@
 Premiere ligne
+<<<<<<< HEAD
 Deuxieme ligne
+...et un peu plus ici
+>>>>>>> 5d21444bcaad13a12a0b77d4c01560331a8d6b53
