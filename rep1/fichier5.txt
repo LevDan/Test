@@ -1,1 +1,2 @@
-Moi j'ajoute ceci
+Moi j'ajoute ceci -- il change ceci
+Lui ajoute cela
